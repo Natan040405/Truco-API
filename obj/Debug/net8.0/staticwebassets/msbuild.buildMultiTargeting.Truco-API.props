@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Truco-API.props" />
+</Project>

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natan\\WorkSpaceProgram\\CSharpProjects\\Truco-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68EA7783-EE24-4795-9730-2422873C01DA}|Truco-API.csproj|c:\\users\\natan\\workspaceprogram\\csharpprojects\\truco-api\\controllers\\jogadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EA7783-EE24-4795-9730-2422873C01DA}|Truco-API.csproj|solutionrelative:controllers\\jogadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EA7783-EE24-4795-9730-2422873C01DA}|Truco-API.csproj|c:\\users\\natan\\workspaceprogram\\csharpprojects\\truco-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68EA7783-EE24-4795-9730-2422873C01DA}|Truco-API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EA7783-EE24-4795-9730-2422873C01DA}|Truco-API.csproj|c:\\users\\natan\\workspaceprogram\\csharpprojects\\truco-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EA7783-EE24-4795-9730-2422873C01DA}|Truco-API.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EA7783-EE24-4795-9730-2422873C01DA}|Truco-API.csproj|c:\\users\\natan\\workspaceprogram\\csharpprojects\\truco-api\\models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EA7783-EE24-4795-9730-2422873C01DA}|Truco-API.csproj|solutionrelative:models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EA7783-EE24-4795-9730-2422873C01DA}|Truco-API.csproj|c:\\users\\natan\\workspaceprogram\\csharpprojects\\truco-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EA7783-EE24-4795-9730-2422873C01DA}|Truco-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EA7783-EE24-4795-9730-2422873C01DA}|Truco-API.csproj|c:\\users\\natan\\workspaceprogram\\csharpprojects\\truco-api\\truco-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68EA7783-EE24-4795-9730-2422873C01DA}|Truco-API.csproj|solutionrelative:truco-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\natan\\WorkSpaceProgram\\CSharpProjects\\Truco-API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\natan\\WorkSpaceProgram\\CSharpProjects\\Truco-API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T23:54:53.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\WorkSpaceProgram\\CSharpProjects\\Truco-API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\natan\\WorkSpaceProgram\\CSharpProjects\\Truco-API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T23:45:24.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\WorkSpaceProgram\\CSharpProjects\\Truco-API\\Models\\Jogador.cs",
+              "RelativeDocumentMoniker": "Models\\Jogador.cs",
+              "ToolTip": "C:\\Users\\natan\\WorkSpaceProgram\\CSharpProjects\\Truco-API\\Models\\Jogador.cs",
+              "RelativeToolTip": "Models\\Jogador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T23:40:47.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JogadoresController.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\WorkSpaceProgram\\CSharpProjects\\Truco-API\\Controllers\\JogadoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JogadoresController.cs",
+              "ToolTip": "C:\\Users\\natan\\WorkSpaceProgram\\CSharpProjects\\Truco-API\\Controllers\\JogadoresController.cs",
+              "RelativeToolTip": "Controllers\\JogadoresController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T23:50:53.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\WorkSpaceProgram\\CSharpProjects\\Truco-API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\natan\\WorkSpaceProgram\\CSharpProjects\\Truco-API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T23:32:35.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Truco-API.csproj",
+              "DocumentMoniker": "C:\\Users\\natan\\WorkSpaceProgram\\CSharpProjects\\Truco-API\\Truco-API.csproj",
+              "RelativeDocumentMoniker": "Truco-API.csproj",
+              "ToolTip": "C:\\Users\\natan\\WorkSpaceProgram\\CSharpProjects\\Truco-API\\Truco-API.csproj",
+              "RelativeToolTip": "Truco-API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T23:43:58.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "Truco_API.Controllers.JogadoresController",
+    "Method": "AddJogador",
+    "RelativePath": "api/Jogadores",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jogador",
+        "Type": "Truco_API.Models.Jogador",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Truco_API.Controllers.JogadoresController",
+    "Method": "GetJogador",
+    "RelativePath": "api/Jogadores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Truco_API.Models.Jogador, Truco-API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
