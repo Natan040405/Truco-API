@@ -37,5 +37,14 @@ namespace Truco_API.Controllers
             Jogador jogador = await _AppDbcontext.Jogadores.FindAsync(id);
             return Ok(jogador);
         }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateJogador(int id, [FromBody] Jogador jogadorAtualizado)
+        {
+            Jogador jogadorAtual = await _AppDbcontext.Jogadores.FindAsync(id);
+            _AppDbcontext.Entry(jogadorAtual).CurrentValues.SetValues(jogadorAtualizado);
+            await _AppDbcontext.SaveChangesAsync();
+            return StatusCode(201, jogadorAtual);
+        }
     }
 }
